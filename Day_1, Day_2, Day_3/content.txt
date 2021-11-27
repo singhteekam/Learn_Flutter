@@ -1,0 +1,20 @@
+Day_1:
+- Intro
+- What is Flutter
+- Why we should learn Flutter
+- Install Android Studio
+
+Day_2:
+- Create your first Flutter App
+- Folder Structure
+- Important Files and folders
+- main function
+- Doubts
+
+Day_3:
+- Stateless Widget
+- Stateful Widget
+- Scaffold
+- AppBar
+- Center Widget
+- Doubts
