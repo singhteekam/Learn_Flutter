@@ -1,0 +1,29 @@
+
+#include <iostream>
+
+using namespace std;
+
+// int x=5;  //Global variable
+
+int fun(int m){    // int m=a;  m=70
+    return m+50;    // 70+50=120
+}
+
+
+int main()
+{
+    int a=70;
+    
+    int val= fun(a);   // Function calling
+    
+    cout<<val;
+}
+
+
+
+
+// local variable=a
+// cout - Output
+// cin - Input
+
+
