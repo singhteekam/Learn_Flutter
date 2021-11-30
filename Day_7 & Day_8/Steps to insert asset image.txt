@@ -1,0 +1,5 @@
+Steps to add asset image in our app:
+1. Create assets folder in your root directory
+2. Open pubspec.yaml file and add the file path in assets section
+3. Write some code to insert asset image in app.For ex: you can use Image.asset("YOUR_FILE_PATH")
+4. Run your app and see the output
