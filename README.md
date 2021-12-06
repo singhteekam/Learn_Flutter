@@ -22,14 +22,14 @@ Learn flutter from scratch
 	- AppBar
 	- Center Widget
   - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_1%2C%20Day_2%2C%20Day_3)
-
+---
 - Day 4 (25/11/2021)
   - Topics:
   	- Counter App
   	- AppBar
   	- Floating action button
   - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_4)
-
+---
 - Day 5 (26/11/2021)
   - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_5)
 <!--   - [Recording Link](https://drive.google.com/file/d/1cpVWuWmfQJegilOGtiYfGqtLabY4ThR0/view?usp=sharing) -->
