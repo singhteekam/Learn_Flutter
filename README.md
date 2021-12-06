@@ -24,3 +24,11 @@ Learn flutter from scratch
 - Day 10 (03/12/2021)
   - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_10)
 <!--   - [Recording link](https://drive.google.com/file/d/1zboAmU02lMAYaIjoE2FqzvTB49O4-Qsf/view?usp=sharing) -->
+
+- Day 11 (06/12/2021)
+  - Topics:
+	- Conditonal statements If/Else
+	- Loops
+	- Build a love calculator
+  - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_11)
+

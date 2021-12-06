@@ -1,0 +1,24 @@
+import 'dart:math';
+
+void main() {
+    // Build a love calculator
+    
+    int loveValue= Random().nextInt(101);  // 1 to 100
+    
+    print("LOVE VALUE : $loveValue");
+  
+    if(loveValue>80)
+    {
+      print("More than 80%");
+    }
+  else if(loveValue>50)
+  {
+    print("More than 50% but less than 80%");
+  }
+  else
+  {
+    print("Less than 50%");
+  }
+  
+}
+
