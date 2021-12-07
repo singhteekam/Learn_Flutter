@@ -71,3 +71,12 @@ Learn flutter from scratch
   - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_11)
   - [Recording Link]()
 
+---
+- Day 12 (07/12/2021)
+  - Topics:
+	- Xylophone => [Dart] Arrow Functions
+	- MiCard => Tapping into Widget Properties
+	- MiCard => ListTile widget
+  - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_12)
+  - [Recording Link]()
+
