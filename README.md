@@ -80,3 +80,12 @@ Learn flutter from scratch
   - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_12)
   - [Recording Link]()
 
+---
+- Day 13 (08/12/2021)
+  - Topics:
+	- Card widget
+	- insert network image in app
+	- Run the app on Emulator using VS code
+  - [Link](https://github.com/singhteekam/Learn_Flutter/tree/main/Day_13)
+  - [Recording Link]()
+

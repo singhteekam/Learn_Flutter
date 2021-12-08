@@ -1,0 +1,6 @@
+ body: Center(
+            child: Image.network(
+          "https://cdn2.vectorstock.com/i/1000x1000/78/31/cute-panda-bear-on-bamboo-branch-vector-33187831.jpg",
+          width: 200,
+          height: 200,
+        ))
