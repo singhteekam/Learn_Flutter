@@ -1,0 +1,18 @@
+void main() {
+  
+//                 index: 0       1        2      3
+  List<String> mylist = ["Hii", "Hello", "Bye", "Good"];
+  
+  print(mylist[2]);
+  
+
+  
+}
+
+output: Bye
+
+
+// List listname = []
+
+// int double
+//   string
