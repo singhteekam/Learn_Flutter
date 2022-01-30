@@ -16,3 +16,4 @@ output: Bye
 
 // int double
 //   string
+//int
